@@ -35,5 +35,5 @@ However, we're open for hire. For contracting and consulting, send mail to [hell
 
 ## Development Support
 
-We do out best to use open standards to minimize the initial development friction.
+We do our best to use open standards to minimize the initial development friction.
 Additional instructions are usually added in development guidelines in `DEVELOPMENT.md` in the project root directory.
